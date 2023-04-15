@@ -1,10 +1,7 @@
 # K-Means
 ## Overview
 K-Means is a clustering algorithm used in data mining to partition a given dataset into K clusters. It is a popular unsupervised learning algorithm used to identify patterns in data. The algorithm iteratively assigns each data point to the nearest cluster center, and updates the center to the mean of all the data points in the cluster.
-<p align="center">
 
-![Alt text](k-means-clustering-.png?raw=true "Optional Title")
-</p>
 ## How it works
 Select K initial centroids randomly from the data points.<br>
 Assign each data point to the nearest centroid based on the Euclidean distance.<br>
